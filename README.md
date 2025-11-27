@@ -71,7 +71,7 @@ Supports both:
 ## 🏆 Document Parsing LeaderBoard
 
 
-<table style="width:100%; border-collapse:collapse; font-size:12px; margin:10px 0; font-family: Arial, sans-serif;">
+<table style="width:100%; border-collapse:collapse; font-size:10px; margin:10px 0; font-family: Arial, sans-serif;">
 <thead>
     <tr>
         <th rowspan="2" style="border:1px solid #000; padding:4px; text-align:center; vertical-align:middle; font-weight:bold;">Type</th>
@@ -942,7 +942,7 @@ Supports both:
 
 ## 🏆 Document Translation LeaderBoard
 
-<table style="width:100%; border-collapse:collapse; font-size:12px; margin:10px 0; font-family: Arial, sans-serif;">
+<table style="width:100%; border-collapse:collapse; font-size:10px; margin:10px 0; font-family: Arial, sans-serif;">
 <thead>
     <tr>
         <th rowspan="2" style="border:1px solid #000; padding:4px; text-align:center; vertical-align:middle; font-weight:bold;">Type</th>
