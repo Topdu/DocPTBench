@@ -103,6 +103,52 @@ Supports both:
 <tr>
 <td rowspan="36" style="border:1px solid #000; padding:2px; text-align:center; font-weight:bold;"><b>Expert Models</b></td>
 <!-- <td rowspan="36" style="border:1px solid #000; padding:2px; text-align:center; vertical-align:middle;writing-mode:vertical-rl; transform:rotate(180deg); width:30px;"><b>Expert Models</b></td> -->
+<tr>
+<td rowspan="3" style="border:1px solid #000; padding:5px; text-align:center; vertical-align:middle; font-weight:bold;">HunyuanOCR</td>
+<td style="border:1px solid #000; padding:5px; font-weight:bold;">Original</td>
+<td style="border:1px solid #000; padding:5px;">9.6</td>
+<td style="border:1px solid #000; padding:5px;">10.9</td>
+<td style="border:1px solid #000; padding:5px;">3.1</td>
+<td style="border:1px solid #000; padding:5px;">6.6</td>
+<td style="border:1px solid #000; padding:5px;">26.4</td>
+<td style="border:1px solid #000; padding:5px;">28.8</td>
+<td style="border:1px solid #000; padding:5px;">94.0</td>
+<td style="border:1px solid #000; padding:5px;">95.9</td>
+<td style="border:1px solid #000; padding:5px;">4.7</td>
+<td style="border:1px solid #000; padding:5px;">3.3</td>
+<td style="border:1px solid #000; padding:5px;">4.3</td>
+<td style="border:1px solid #000; padding:5px;">4.9</td>
+</tr>
+<tr>
+<td style="border:1px solid #000; padding:5px; font-weight:bold;">Photographed</td>
+<td style="border:1px solid #000; padding:5px;">22.4<sub style="color:red; font-size:0.8em;">↓12.8</sub></td>
+<td style="border:1px solid #000; padding:5px;">30.4<sub style="color:red; font-size:0.8em;">↓19.5</sub></td>
+<td style="border:1px solid #000; padding:5px;">17.0<sub style="color:red; font-size:0.8em;">↓13.9</sub></td>
+<td style="border:1px solid #000; padding:5px;">31.6<sub style="color:red; font-size:0.8em;">↓25.0</sub></td>
+<td style="border:1px solid #000; padding:5px;">34.3<sub style="color:red; font-size:0.8em;">↓7.9</sub></td>
+<td style="border:1px solid #000; padding:5px;">44.3<sub style="color:red; font-size:0.8em;">↓15.5</sub></td>
+<td style="border:1px solid #000; padding:5px;">74.0<sub style="color:red; font-size:0.8em;">↓20.0</sub></td>
+<td style="border:1px solid #000; padding:5px;">75.2<sub style="color:red; font-size:0.8em;">↓20.7</sub></td>
+<td style="border:1px solid #000; padding:5px;">22.9<sub style="color:red; font-size:0.8em;">↓18.2</sub></td>
+<td style="border:1px solid #000; padding:5px;">20.6<sub style="color:red; font-size:0.8em;">↓17.3</sub></td>
+<td style="border:1px solid #000; padding:5px;">15.4<sub style="color:red; font-size:0.8em;">↓11.1</sub></td>
+<td style="border:1px solid #000; padding:5px;">25.3<sub style="color:red; font-size:0.8em;">↓20.4</sub></td>
+</tr>
+<tr>
+<td style="border:1px solid #000; padding:5px; font-weight:bold;">Unwarping</td>
+<td style="border:1px solid #000; padding:5px;">15.8<sub style="color:green; font-size:0.8em;">↑6.6</sub></td>
+<td style="border:1px solid #000; padding:5px;">22.8<sub style="color:green; font-size:0.8em;">↑7.6</sub></td>
+<td style="border:1px solid #000; padding:5px;">6.6<sub style="color:green; font-size:0.8em;">↑10.4</sub></td>
+<td style="border:1px solid #000; padding:5px;">19.3<sub style="color:green; font-size:0.8em;">↑12.3</sub></td>
+<td style="border:1px solid #000; padding:5px;">31.4<sub style="color:green; font-size:0.8em;">↑2.9</sub></td>
+<td style="border:1px solid #000; padding:5px;">44.0<sub style="color:green; font-size:0.8em;">↑0.3</sub></td>
+<td style="border:1px solid #000; padding:5px;">80.0<sub style="color:green; font-size:0.8em;">↑6.1</sub></td>
+<td style="border:1px solid #000; padding:5px;">84.9<sub style="color:green; font-size:0.8em;">↑9.7</sub></td>
+<td style="border:1px solid #000; padding:5px;">17.0<sub style="color:green; font-size:0.8em;">↑5.9</sub></td>
+<td style="border:1px solid #000; padding:5px;">12.5<sub style="color:green; font-size:0.8em;">↑8.1</sub></td>
+<td style="border:1px solid #000; padding:5px;">8.1<sub style="color:green; font-size:0.8em;">↑7.3</sub></td>
+<td style="border:1px solid #000; padding:5px;">15.4<sub style="color:green; font-size:0.8em;">↑9.9</sub></td>
+</tr>
 <td rowspan="3" style="border:1px solid #000; padding:2px; text-align:center; vertical-align:middle;">PaddleOCR-VL</td>
 <td style="border:1px solid #000; padding:2px; text-align:center; font-weight:bold;">Original</td>
 <td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">10.5</td>
@@ -1421,7 +1467,7 @@ Refer to the [translation.md](docs/translation.md) for evaluation details.
 - [x] OCRFlux
 - [x] SmolDocling
 - [x] Nanonets-OCR and Nanonets-OCR2
-- [ ] HunyuanOCR
+- [x] HunyuanOCR
 
 
 ### 🤖 MLLMs (Closed-Source)
