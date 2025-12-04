@@ -1010,7 +1010,7 @@ Supports both:
 </thead>
 <tbody>
 <tr>
-<td rowspan="12" style="border:1px solid #000; padding:2px; text-align:center; font-weight:bold;"><b>Open Source</b></td>
+<td rowspan="14" style="border:1px solid #000; padding:2px; text-align:center; font-weight:bold;"><b>Open Source</b></td>
 <td rowspan="3" style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">Qwen3-VL-4B</td>
 <td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">Text</td>
 <td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">49.61</td>
@@ -1145,6 +1145,29 @@ Supports both:
 <td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">50.16<sub style="color:green; font-size:0.8em;">↑39.12</sub></td>
 <td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">41.75<sub style="color:green; font-size:0.8em;">↑31.23</sub></td>
 <td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">61.86<sub style="color:red; font-size:0.8em;">↓3.17</sub></td>
+</tr>
+<tr>
+<td rowspan="2" style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">HunyuanOCR</td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">Original-self</td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">16.77</td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">24.91</td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">29.17</td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">58.88</td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">12.49</td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">26.25</td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">19.04</td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">56.09</td>
+</tr>
+<tr>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">Photographed-self</td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">13.49<sub style="color:red; font-size:0.8em;">↓3.28</sub></td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">21.86<sub style="color:red; font-size:0.8em;">↓3.05</sub></td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">25.68<sub style="color:red; font-size:0.8em;">↓3.49</sub></td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">53.22<sub style="color:red; font-size:0.8em;">↓5.66</sub></td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">10.50<sub style="color:red; font-size:0.8em;">↓1.99</sub></td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">25.02<sub style="color:red; font-size:0.8em;">↓1.23</sub></td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">18.63<sub style="color:red; font-size:0.8em;">↓0.41</sub></td>
+<td style="border:1px solid #000; padding:2px; text-align:left; padding-left:5px;">50.72<sub style="color:red; font-size:0.8em;">↓5.27</sub></td>
 </tr>
 <tr>
 <td rowspan="25" style="border:1px solid #000; padding:2px; text-align:center; font-weight:bold;"><b>Closed Source</b></td>
