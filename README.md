@@ -101,7 +101,7 @@ Supports both:
 </thead>
 <tbody>
 <tr>
-<td rowspan="36" style="border:1px solid #000; padding:2px; text-align:center; font-weight:bold;"><b>Expert Models</b></td>
+<td rowspan="40" style="border:1px solid #000; padding:2px; text-align:center; font-weight:bold;"><b>Expert Models</b></td>
 <!-- <td rowspan="36" style="border:1px solid #000; padding:2px; text-align:center; vertical-align:middle;writing-mode:vertical-rl; transform:rotate(180deg); width:30px;"><b>Expert Models</b></td> -->
 <tr>
 <td rowspan="3" style="border:1px solid #000; padding:5px; text-align:center; vertical-align:middle; font-weight:bold;">HunyuanOCR</td>
